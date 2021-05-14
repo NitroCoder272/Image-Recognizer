@@ -1,0 +1,18 @@
+.heading{
+    width: 80%;
+}
+
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color: yellow;
+}
+
+#camera{
+    border: 2px dashed white;
+    width: 350px;
+    height: 300;
+}
+
+body{
+    text-align: center;
+    background-color: aquamarine;
+}
